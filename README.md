@@ -16,11 +16,11 @@ Before setting up the project, ensure you have the following installed:
    - Open your terminal.
    - Clone the project repository by running:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/codesbyayush/dailyCalendar
      ```
    - Navigate into the project directory:
      ```bash
-     cd <project-directory-name>
+     cd assignment
      ```
 
 2. **Install Dependencies**
@@ -36,10 +36,10 @@ Before setting up the project, ensure you have the following installed:
      ```bash
      npm start
      ```
-   - This command will compile the project and serve it usually at `http://localhost:3000`.
+   - This command will compile the project and serve it usually at `http://localhost:5173`.
 
 4. **Open the Project**
-   - Open a web browser and go to `http://localhost:3000` to view the project.
+   - Open a web browser and go to `http://localhost:5173` to view the project.
 
 ## Major Learnings and Problems Solved
 
